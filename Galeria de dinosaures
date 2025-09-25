@@ -15,11 +15,14 @@
 </ul>
 
 <ol>
-    <li> https://es.wikipedia.org/wiki/Portal:Dinosaurios </li>
-    <li> https://www.nationalgeographic.com.es/temas/dinosaurios </li>
-    <li> https://www.extinctanimals.org/es/dinosaurios </li>
+    <li>"https://es.wikipedia.org/wiki/Portal:Dinosaurios" </li>
+    <li> "https://www.nationalgeographic.com.es/temas/dinosaurios" </li>
+    <li> "https://www.extinctanimals.org/es/dinosaurios" </li>
 </ol>
 
 <img src=https://st4.depositphotos.com/3643473/19800/i/450/depositphotos_198004824-stock-photo-render-dinosaur-render.jpg
 alt="Dinosaure" widt="200" />
 
+<p>
+    <a href="https://ca.wikipedia.org/wiki/Dinosaures">
+         Viquiepèdia dels dinosaures
