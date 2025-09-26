@@ -28,3 +28,6 @@ alt="Dinosaure" widt="200" />
 <a href="https://ca.wikipedia.org/wiki/Dinosaures" target="_blank">Viquipèdia dels dinosaures</a>
 
 </p>
+
+<galeria class="html"></galeria>
+<contacte class="html"></contacte>
