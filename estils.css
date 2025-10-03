@@ -44,15 +44,3 @@ a:hover {
     color: orange;
     cursor: pointer;
 }
-
-/* 5. Pseudo-elements per afegir símbols als paràgrafs */
-p::before {
-    content: "👉 ";
-    color: blue;
-}
-
-p::after {
-    content: " ✔";
-    color: green;
-}
-
