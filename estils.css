@@ -1,0 +1,57 @@
+/* 1. Tots els paràgrafs → verd */
+p {
+    color: green;
+}
+
+/* 2. Títol amb id titol → gran i subratllat */
+#titol {
+    font-size: 40px; /* més gran */
+    text-decoration: underline;
+}
+
+/* 3. Classes */
+.text-important {
+    color: red;
+    font-weight: bold;
+}
+
+.vermell {
+    color: red;
+}
+
+.verd {
+    color: green;
+}
+
+.blau {
+    color: blue;
+}
+
+.gran {
+    font-size: 24px;
+}
+
+.negreta {
+    font-weight: bold;
+}
+
+.subratllat {
+    text-decoration: underline;
+}
+
+/* 4. Estil per enllaços amb hover */
+a:hover {
+    color: orange;
+    cursor: pointer;
+}
+
+/* 5. Pseudo-elements per afegir símbols als paràgrafs */
+p::before {
+    content: "👉 ";
+    color: blue;
+}
+
+p::after {
+    content: " ✔";
+    color: green;
+}
